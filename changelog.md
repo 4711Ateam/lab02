@@ -10,6 +10,9 @@
 * Date will be formatted as "\<Full Month Name> \<Day>, \<Year>", for example "January 20, 3000"
 ## Log
 
+#### 1214 Hours, January 17, 2018
+* Added avatar image and quote for Akira Kurosawa
+
 #### 1143 Hours, January 17, 2018
 * Created and set up changelog
 * Updated .gitignore to ignore Webstorm dependancies
