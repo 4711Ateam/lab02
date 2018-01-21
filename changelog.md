@@ -10,6 +10,9 @@
 * Date will be formatted as "\<Full Month Name> \<Day>, \<Year>", for example "January 20, 3000"
 ## Log
 
+#### 1600 Hours, January 20, 2018
+* Updated mouse over tooltip
+
 #### 1214 Hours, January 17, 2018
 * Added avatar image and quote for Akira Kurosawa
 
